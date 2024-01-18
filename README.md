@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Download the project zip folder and unzip it at 
 
-`C:\Users\HP\Desktop\E-commerce\src`
+`C:\Users\HP\Desktop\E-commerce\client`
 
 
 
