@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Visit [Template](https://github.com/Lagnajit09/react-E-Commerce/tree/front-end) for the Frontend part to build your own e-commerce application.
+
 ## Available Scripts
 
 In the project directory, you can run:
